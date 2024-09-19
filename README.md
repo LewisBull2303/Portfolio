@@ -57,3 +57,20 @@ This portfolio allows potential recruiters to see everything that they need to k
 ![image](https://github.com/user-attachments/assets/1cedcc93-f6c5-4951-95cd-f6326318e583)
 
 
+## Testing
+
+ - I tested that this page works in different browsers: Edge, Firefox Chrome, Safari and OperaGX
+ - I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools in chrome and edge.
+ - I confirm that the navigation, header, about me, skills, projects and contact section are all readable and easy to understand.
+ - I have confimed that all buttons and links take the user to the correct place and fucntion as intended.
+
+## Bugs
+
+- When I first deployed the website the pictures did not load properly.
+- I discovered that this was because the images were saved to my computer only.
+- I then uploaded all images that I needed to [freehost](https://freeimage.host/) which allowed me to use the images that I wanted.
+
+## Validator Testing
+
+- Html
+-   
