@@ -1,4 +1,4 @@
-# My Portfolio Website
+# Lewis Bull - Portfolio
 
 This website is a portfolio for me to showcase and display any projects and achievements that I complete along my coding Journey. This Website has information about me, my experience and education, My Development and Soft Skills as well as a section where you can contact me.
 
