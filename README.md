@@ -81,5 +81,7 @@ This portfolio allows potential recruiters to see everything that they need to k
 ![image](https://github.com/user-attachments/assets/14a6433f-094b-4030-9b28-562658acfabe)
 
 - Accessibility
--   
+-   I confirmed that the colors and fonts chose are easy to read and accessible by running it through lighthouse in devtools
+![image](https://github.com/user-attachments/assets/64ec904d-5189-4f84-9fd6-3786fd2f4215)
+
 
