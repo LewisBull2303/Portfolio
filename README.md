@@ -77,5 +77,9 @@ This portfolio allows potential recruiters to see everything that they need to k
 ![image](https://github.com/user-attachments/assets/72a646cb-0d4d-4691-b28b-0812ac7f53cb)
 
 - CSS
+-   No errors were returned when passing throuhg the official Jigsaw CSS Validator
+image](https://github.com/user-attachments/assets/14a6433f-094b-4030-9b28-562658acfabe)
+
+- Accessibility
 -   
 
