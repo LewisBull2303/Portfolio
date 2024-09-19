@@ -133,6 +133,10 @@ a:hover{
     transform: none;
 }
 
+#profile_picture{
+    border-radius: 50%;
+}
+
 section{
     padding-top: 4vh;
     height: 96vh;
