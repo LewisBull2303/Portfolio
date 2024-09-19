@@ -73,4 +73,9 @@ This portfolio allows potential recruiters to see everything that they need to k
 ## Validator Testing
 
 - Html
+-   No errors were returned when passing through the official W3C Validator
+![image](https://github.com/user-attachments/assets/72a646cb-0d4d-4691-b28b-0812ac7f53cb)
+
+- CSS
 -   
+
