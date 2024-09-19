@@ -84,4 +84,13 @@ This portfolio allows potential recruiters to see everything that they need to k
 -   I confirmed that the colors and fonts chose are easy to read and accessible by running it through lighthouse in devtools
 ![image](https://github.com/user-attachments/assets/64ec904d-5189-4f84-9fd6-3786fd2f4215)
 
+## Deployment
+- This site was deployed to Github pages. The steps to deploy are as follows:
+-   Navigate to the setting tab of the GitHub repository that you wish to deploy
+-   From the source drop down menu, select the option that says main
+-   Once selected the pages link will generate allowing you to view your page.
+
+The Live link to this repository can be found here - https://lewisbull2303.github.io/Portfolio/#
+
+
 
